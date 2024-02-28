@@ -35,6 +35,8 @@ Example 1: 'Hello Github' in TypeScript
 </code>
       
 In this example:
-•	We define a function sayHello that takes a parameter name of type string.
-•	We declare a variable user with the value "John".
-•	We call the sayHello function with the user variable as an argument.
+•	We define a function sayHello that takes a parameter name of type string.</br>
+•	We declare a variable user with the value "John".</br>
+•	We call the sayHello function with the user variable as an argument.</br>
+
+
