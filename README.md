@@ -55,5 +55,24 @@ message = count;
 </code>
 
 In this example:</br>
-We explicitly specify the data types of variables message, count, and isLogged.</br>
-TypeScript detects and reports a type mismatch error when we try to assign a number to a string variable.</br>
+•	We explicitly specify the data types of variables message, count, and isLogged.</br>
+•	TypeScript detects and reports a type mismatch error when we try to assign a number to a string variable.</br>
+
+
+<b>Example 3:</b> Interfaces
+<code>
+// interface.ts
+interface Person {
+    name: string;
+    age: number;
+}
+
+function greet(person: Person) {
+    return "Hello, " + person.name + ", you are " + person.age + " years old.";
+}
+
+let user = { name: "Alice", age: 30 };
+console.log(greet(user));
+</code>
+
+
