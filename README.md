@@ -12,3 +12,13 @@ TypeScript is an open-source programming language developed by Microsoft. It is 
 4.	<b>Enums:</b> Enums allow developers to define a set of named constants, making the code more readable and maintainable.
 5.	<b>Generics:</b> TypeScript supports generics, enabling the creation of reusable components that can work with a variety of data types.
 
+
+
+#Setting Up TypeScript
+To start using TypeScript, you need to install it globally using npm (Node Package Manager):
+
+<sup>npm install -g typescript</sup>
+
+After installation, you can create a TypeScript file (with a .ts extension) and compile it to JavaScript using the TypeScript compiler (tsc):
+
+tsc yourfile.ts 
