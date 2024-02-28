@@ -22,3 +22,19 @@ To start using TypeScript, you need to install it globally using npm (Node Packa
 After installation, you can create a TypeScript file (with a .ts extension) and compile it to JavaScript using the TypeScript compiler (tsc):
 
 <code>tsc yourfile.ts</code>
+
+
+
+# Basic TypeScript Syntax
+Example 1: 'Hello Github' in TypeScript
+
+<code>// hello.ts function sayHello(name: string) { 
+	console.log("Hello, " + name + "!"); 
+	} 
+      let user = "John"; sayHello(user); 
+</code>
+      
+In this example:
+•	We define a function sayHello that takes a parameter name of type string.
+•	We declare a variable user with the value "John".
+•	We call the sayHello function with the user variable as an argument.
