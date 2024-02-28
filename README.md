@@ -105,3 +105,8 @@ In this example:</br>
 •	We create an instance of the Greeter class and call the greet method.</br>
 
 
+
+# Conclusion
+TypeScript enhances JavaScript by adding static typing, interfaces, classes, enums, generics, and other features. It offers developers the benefits of a statically typed language while preserving the dynamic and flexible nature of JavaScript.
+
+
