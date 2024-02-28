@@ -75,4 +75,10 @@ let user = { name: "Alice", age: 30 };
 console.log(greet(user));
 </code>
 
+In this example:</br>
+•	We define an interface Person with properties name and age.</br>
+•	We define a function greet that takes an object of type Person as a parameter.</br>
+•	We create an object user that conforms to the Person interface and pass it to the greet function.</br>
+
+
 
