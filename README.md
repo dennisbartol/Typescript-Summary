@@ -14,7 +14,7 @@ TypeScript is an open-source programming language developed by Microsoft. It is 
 
 
 
-#Setting Up TypeScript
+# Setting Up TypeScript
 To start using TypeScript, you need to install it globally using npm (Node Package Manager):
 
 <code>npm install -g typescript</code>
