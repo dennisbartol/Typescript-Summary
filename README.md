@@ -42,8 +42,8 @@ In this example:</br>
 •	We call the sayHello function with the user variable as an argument.</br>
 
 
-<b>Example 2:</b> Static Typing
 
+<b>Example 2:</b> Static Typing
 <code>
 // static_typing.ts
 let message: string = "Hello, TypeScript!";
@@ -54,3 +54,6 @@ let isLogged: boolean = true;
 message = count;
 </code>
 
+In this example:</br>
+We explicitly specify the data types of variables message, count, and isLogged.</br>
+TypeScript detects and reports a type mismatch error when we try to assign a number to a string variable.</br>
