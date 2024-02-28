@@ -26,7 +26,7 @@ After installation, you can create a TypeScript file (with a .ts extension) and 
 
 
 # Basic TypeScript Syntax
-Example 1: 'Hello Github' in TypeScript
+<b>Example 1:</b> 'Hello Github' in TypeScript
 
 <code>// hello.ts 
 	function sayHello(name: string) { 
