@@ -28,10 +28,12 @@ After installation, you can create a TypeScript file (with a .ts extension) and 
 # Basic TypeScript Syntax
 Example 1: 'Hello Github' in TypeScript
 
-<code>// hello.ts function sayHello(name: string) { 
+<code>// hello.ts 
+	function sayHello(name: string) { 
 	console.log("Hello, " + name + "!"); 
 	} 
-      let user = "John"; sayHello(user); 
+      let user = "John"; 
+      sayHello(user); 
 </code>
       
 In this example:</br>
