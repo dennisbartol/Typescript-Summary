@@ -81,4 +81,27 @@ In this example:</br>
 •	We create an object user that conforms to the Person interface and pass it to the greet function.</br>
 
 
+<b>Example 4:</b> Classes
+<code>
+// class.ts
+class Greeter {
+    greeting: string;
+
+    constructor(message: string) {
+        this.greeting = message;
+    }
+
+    greet() {
+        return "Hello, " + this.greeting;
+    }
+}
+
+let greeter = new Greeter("world");
+console.log(greeter.greet());
+</code>
+
+In this example:</br>
+•	We define a class Greeter with a property greeting and methods constructor and greet.</br>
+•	We create an instance of the Greeter class and call the greet method.</br>
+
 
