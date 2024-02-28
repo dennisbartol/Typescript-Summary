@@ -86,8 +86,9 @@ In this example:</br>
 // class.ts
 class Greeter {
     greeting: string;
-
-    constructor(message: string) {
+</code>
+<code>
+constructor(message: string) {
         this.greeting = message;
     }
 
@@ -95,7 +96,8 @@ class Greeter {
         return "Hello, " + this.greeting;
     }
 }
-
+</code>
+<code>
 let greeter = new Greeter("world");
 console.log(greeter.greet());
 </code>
