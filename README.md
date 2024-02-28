@@ -21,4 +21,4 @@ To start using TypeScript, you need to install it globally using npm (Node Packa
 
 After installation, you can create a TypeScript file (with a .ts extension) and compile it to JavaScript using the TypeScript compiler (tsc):
 
-tsc yourfile.ts 
+<code>tsc yourfile.ts</code>
