@@ -42,3 +42,15 @@ In this example:</br>
 •	We call the sayHello function with the user variable as an argument.</br>
 
 
+<b>Example 2:</b> Static Typing
+
+<code>
+// static_typing.ts
+let message: string = "Hello, TypeScript!";
+let count: number = 10;
+let isLogged: boolean = true;
+
+// Error: Type 'number' is not assignable to type 'string'.
+message = count;
+</code>
+
