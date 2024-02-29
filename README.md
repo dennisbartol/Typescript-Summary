@@ -1,4 +1,4 @@
-# Introduction to Typescript
+# Summary of Typescript
 
 
 # What is TypeScript?
