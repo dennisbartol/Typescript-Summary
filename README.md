@@ -1,4 +1,4 @@
-<center># Summary of Typescript</center>
+# Summary of Typescript
 
 
 # What is TypeScript?
