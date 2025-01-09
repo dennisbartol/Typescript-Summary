@@ -29,13 +29,14 @@ After installation, you can create a TypeScript file (with a .ts extension) and 
 # Basic TypeScript Syntax
 <b>Example 1:</b> 'Hello Github' in TypeScript
 
-<code>// hello.ts 
+``` js
+// hello.ts 
 	function sayHello(name: string) { 
 	console.log("Hello, " + name + "!"); 
 	} 
       let user = "John"; 
       sayHello(user); 
-</code>
+```
       
 In this example:</br>
 •	We define a function 'sayHello' that takes a parameter name of type string.</br>
