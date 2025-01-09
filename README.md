@@ -108,11 +108,11 @@ In this example:</br>
 
 
 
-# Conclusion
+## Conclusion
 TypeScript enhances JavaScript by adding static typing, interfaces, classes, enums, generics, and other features. It offers developers the benefits of a statically typed language while preserving the dynamic and flexible nature of JavaScript.
 
 
-# Further Learning
+## Further Learning
 To deepen your understanding of TypeScript, consider exploring the following resources:
 1.	<b>Official TypeScript Documentation:</b> TypeScript Handbook - https://www.typescriptlang.org/docs/handbook/intro.html 
 2.	<b>Online Courses:</b> Platforms like Udemy, Coursera, and Pluralsight offer comprehensive TypeScript courses.
