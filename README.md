@@ -103,7 +103,7 @@ console.log(greeter.greet());
 ```
 
 In this example:</br>
-•	We define a class Greeter with a property greeting and methods constructor and greet.</br>
+•	We define a class <code>Greeter</code> with a property greeting and methods constructor and greet.</br>
 •	We create an instance of the Greeter class and call the greet method.</br>
 
 
