@@ -45,7 +45,7 @@ In this example:</br>
 
 
 <b>Example 2:</b> Static Typing
-<code>
+``` js
 // static_typing.ts
 let message: string = "Hello, TypeScript!";
 let count: number = 10;
@@ -53,7 +53,7 @@ let isLogged: boolean = true;
 
 // Error: Type 'number' is not assignable to type 'string'.
 message = count;
-</code>
+```
 
 In this example:</br>
 •	We explicitly specify the data types of variables message, count, and isLogged.</br>
@@ -61,7 +61,7 @@ In this example:</br>
 
 
 <b>Example 3:</b> Interfaces
-<code>
+``` js
 // interface.ts
 interface Person {
     name: string;
@@ -74,7 +74,7 @@ function greet(person: Person) {
 
 let user = { name: "Alice", age: 30 };
 console.log(greet(user));
-</code>
+```
 
 In this example:</br>
 •	We define an interface Person with properties name and age.</br>
