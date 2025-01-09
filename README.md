@@ -83,7 +83,7 @@ In this example:</br>
 
 
 <b>Example 4:</b> Classes
-<code>
+``` js
 // class.ts
 class Greeter {
     greeting: string;
@@ -99,7 +99,7 @@ class Greeter {
 
 let greeter = new Greeter("world");
 console.log(greeter.greet());
-</code>
+```
 
 In this example:</br>
 •	We define a class Greeter with a property greeting and methods constructor and greet.</br>
